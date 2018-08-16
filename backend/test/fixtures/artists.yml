@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  hometown: MyString
+  birthday: MyString
+  death_day: MyString
+  nationality: MyString
+  image: MyString
+  artworks: MyString
+  similar_artists: MyString
+  similar_contemporary_artists: MyString
+
+two:
+  name: MyString
+  hometown: MyString
+  birthday: MyString
+  death_day: MyString
+  nationality: MyString
+  image: MyString
+  artworks: MyString
+  similar_artists: MyString
+  similar_contemporary_artists: MyString
